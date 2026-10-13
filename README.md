@@ -33,8 +33,8 @@ On macOS/Linux you may need `python3` instead of `python`.
 If it's in a Git repository:
 
 ```bash
-git clone https://github.com/<your-username>/portlens.git
-cd portlens
+git clone https://github.com/mohdsufiyansheikeh-hue/Port-Lens.git
+cd PortLens
 ```
 
 Or just download `port_scanner.py` into a folder and open a terminal there.
