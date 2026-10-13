@@ -1,0 +1,9 @@
+# PortLens requirements
+# Requires Python 3.9 or newer.
+#
+# This project uses only the Python standard library
+# (socket, argparse, concurrent.futures, time, sys),
+# so there are no third-party packages to install.
+#
+# Add any future dependencies below, for example:
+# rich>=13.0.0
